@@ -1,4 +1,5 @@
-<h3 align="center">I am a passionate software engineer with a love for solving challenging problems and a strong desire to continually grow and improve myself.</h3>
+<h1 align="center">Hi, I'm Ian</h1>
+<h3>I am a passionate software engineer with a love for solving challenging problems and a strong desire to continually grow and improve myself.</h3>
 
 - 📫 How to reach me **iandkaneshiro@gmail.com**
 
