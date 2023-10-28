@@ -1,7 +1,7 @@
 # About Me:
 I am a passionate software engineer with a love for solving challenging problems and a strong desire to continually grow and improve myself.
 
-Currently I am well versed in JavaScript, React.js, Python but I'm extremely eager to continue to expand my knowledge base. I'm excited to continue to build applications and experiment with new technologies and languages.
+Currently I am proficient in JavaScript, React.js / Redux, and Python and I'm actively working on expanding beyond my current knowledge base. One of my favorite parts of being a software engineer is no longer having to say “I wish there was an app for that”. I can just create one!
 
 Learning is a lifelong journey for me and I'm just getting started!
 
