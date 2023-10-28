@@ -1,4 +1,5 @@
-### Hi, I'm Ian! I am a passionate software engineer with a love for solving challenging problems and a strong desire to continually grow and improve myself.
+### Hi, I'm Ian! 
+I am a passionate software engineer with a love for solving challenging problems and a strong desire to continually grow and improve myself.
 
 <!--
 **IanKaneshiro/IanKaneshiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
