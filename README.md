@@ -7,7 +7,7 @@ Learning is a lifelong journey for me and I'm just getting started!
 
 # Lets Connect
 <p>
-    <a href="www.linkedin.com/in/iandkaneshiro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/iandkaneshiro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:iankaneshirodev@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
