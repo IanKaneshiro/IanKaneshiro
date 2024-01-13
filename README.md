@@ -3,7 +3,7 @@ I am a passionate software engineer with a love for solving challenging problems
 
 Currently I am proficient in JavaScript, React.js / Redux, and Python and I'm actively working on expanding beyond my current knowledge base. One of my favorite parts of being a software engineer is no longer having to say “I wish there was an app for that”. I can just create one!
 
-Learning is a lifelong journey for me and I'm just getting started!
+Learning is a lifelong journey for me and I'm just getting started!!
 
 
 # Lets Connect
